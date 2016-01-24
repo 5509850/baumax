@@ -1,0 +1,17 @@
+K 13
+bugtraq:label
+V 14
+ACPRO issue #:
+K 15
+bugtraq:message
+V 22
+ACPRO issue #: %BUGID%
+K 14
+bugtraq:number
+V 4
+true
+K 11
+bugtraq:url
+V 34
+https://www.acpro.at/?goto=%BUGID%
+END
